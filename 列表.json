@@ -1,0 +1,47 @@
+{
+    "msg": "",
+    "data": {
+        "sku_id": 1620280,
+        "is_deleted": false,
+        "name": "\u7ae0\u8282\u6d4b\u8bd5\u9898",
+        "content_info": {
+            "status": "post",
+            "expand_discuss": false,
+            "score_evaluation": {
+                "score_proportion": {
+                    "proportion": 0.1
+                },
+                "score": 1.0,
+                "id": 11,
+                "name": "\u4f5c\u4e1a\u5355\u5143\u8003\u6838"
+            },
+            "download": [],
+            "is_score": true,
+            "is_discuss": false,
+            "remark": {
+                "remark": ""
+            },
+            "cover_desc": "",
+            "cover_thumbnail": "",
+            "media": {},
+            "cover": "",
+            "leaf_type_id": 432919,
+            "context": ""
+        },
+        "classroom_id": "4449749",
+        "locked_reason": null,
+        "user_role": 3,
+        "leaf_type": 6,
+        "id": 4061818,
+        "has_classend": false,
+        "university_id": 2627,
+        "be_in_force": false,
+        "score_deadline": 1609430100000.0,
+        "course_id": 832696,
+        "user_id": 6633063,
+        "is_score": true,
+        "teacher": {},
+        "is_assessed": false
+    },
+    "success": true
+}
